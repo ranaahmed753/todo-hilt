@@ -1,0 +1,79 @@
+hilt_aggregated_deps/_edu_notes_hiltapp_ui_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._edu_notes_hiltapp_ui_MainActivity_GeneratedInjector
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+edu/notes/hiltapp/mvvm/model/TodoRepository_Factory.java
+ edu.notes.hiltapp.mvvm.model.TodoRepository_Factory
+edu/notes/hiltapp/room/dao/TodoDao_Impl.java
+ edu.notes.hiltapp.room.dao.TodoDao_Impl
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$1
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$2
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$3
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$4
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$5
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$6
+ edu.notes.hiltapp.room.dao.TodoDao_Impl$7
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+edu/notes/hiltapp/room/db/TodoDatabase_Impl.java
+ edu.notes.hiltapp.room.db.TodoDatabase_Impl
+ edu.notes.hiltapp.room.db.TodoDatabase_Impl$1
+edu/notes/hiltapp/di/TodoViewModelModule_ProvideTodoViewModelFactory.java
+ edu.notes.hiltapp.di.TodoViewModelModule_ProvideTodoViewModelFactory
+edu/notes/hiltapp/di/AdapterModule_ProvideTodoAdapterFactory.java
+ edu.notes.hiltapp.di.AdapterModule_ProvideTodoAdapterFactory
+ edu.notes.hiltapp.di.AdapterModule_ProvideTodoAdapterFactory$InstanceHolder
+dagger/hilt/internal/aggregatedroot/codegen/_edu_notes_hiltapp_ui_TodoApplication.java
+ dagger.hilt.internal.aggregatedroot.codegen._edu_notes_hiltapp_ui_TodoApplication
+edu/notes/hiltapp/BR.java
+ edu.notes.hiltapp.BR
+edu/notes/hiltapp/di/TodoRepositoryModule_ProvideTodoRepositoryFactory.java
+ edu.notes.hiltapp.di.TodoRepositoryModule_ProvideTodoRepositoryFactory
+edu/notes/hiltapp/DataBindingTriggerClass.java
+ edu.notes.hiltapp.DataBindingTriggerClass
+hilt_aggregated_deps/_edu_notes_hiltapp_di_DatabaseModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_di_DatabaseModule
+edu/notes/hiltapp/mvvm/viewmodel/TodoViewModel_Factory.java
+ edu.notes.hiltapp.mvvm.viewmodel.TodoViewModel_Factory
+edu/notes/hiltapp/DataBinderMapperImpl.java
+ edu.notes.hiltapp.DataBinderMapperImpl
+ edu.notes.hiltapp.DataBinderMapperImpl$InnerBrLookup
+ edu.notes.hiltapp.DataBinderMapperImpl$InnerLayoutIdLookup
+edu/notes/hiltapp/mvvm/viewmodel/TodoViewModel_HiltModules_KeyModule_ProvideFactory.java
+ edu.notes.hiltapp.mvvm.viewmodel.TodoViewModel_HiltModules_KeyModule_ProvideFactory
+ edu.notes.hiltapp.mvvm.viewmodel.TodoViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+hilt_aggregated_deps/_edu_notes_hiltapp_di_TodoRepositoryModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_di_TodoRepositoryModule
+edu/notes/hiltapp/di/DatabaseModule_ProvideTodoDaoFactory.java
+ edu.notes.hiltapp.di.DatabaseModule_ProvideTodoDaoFactory
+hilt_aggregated_deps/_edu_notes_hiltapp_di_TodoDatabaseModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_di_TodoDatabaseModule
+edu/notes/hiltapp/BuildConfig.java
+ edu.notes.hiltapp.BuildConfig
+hilt_aggregated_deps/_edu_notes_hiltapp_ui_TodoApplication_GeneratedInjector.java
+ hilt_aggregated_deps._edu_notes_hiltapp_ui_TodoApplication_GeneratedInjector
+hilt_aggregated_deps/_edu_notes_hiltapp_di_AdapterModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_di_AdapterModule
+hilt_aggregated_deps/_edu_notes_hiltapp_mvvm_viewmodel_TodoViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_mvvm_viewmodel_TodoViewModel_HiltModules_KeyModule
+hilt_aggregated_deps/_edu_notes_hiltapp_mvvm_viewmodel_TodoViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_mvvm_viewmodel_TodoViewModel_HiltModules_BindsModule
+edu/notes/hiltapp/mvvm/viewmodel/TodoViewModel_HiltModules.java
+ edu.notes.hiltapp.mvvm.viewmodel.TodoViewModel_HiltModules
+ edu.notes.hiltapp.mvvm.viewmodel.TodoViewModel_HiltModules$BindsModule
+ edu.notes.hiltapp.mvvm.viewmodel.TodoViewModel_HiltModules$KeyModule
+edu/notes/hiltapp/di/TodoDatabaseModule_ProvideTodoDatabaseFactory.java
+ edu.notes.hiltapp.di.TodoDatabaseModule_ProvideTodoDatabaseFactory
+edu/notes/hiltapp/ui/TodoApplication_GeneratedInjector.java
+ edu.notes.hiltapp.ui.TodoApplication_GeneratedInjector
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+hilt_aggregated_deps/_edu_notes_hiltapp_di_TodoViewModelModule.java
+ hilt_aggregated_deps._edu_notes_hiltapp_di_TodoViewModelModule
+edu/notes/hiltapp/ui/MainActivity_MembersInjector.java
+ edu.notes.hiltapp.ui.MainActivity_MembersInjector
+edu/notes/hiltapp/ui/MainActivity_GeneratedInjector.java
+ edu.notes.hiltapp.ui.MainActivity_GeneratedInjector
+edu/notes/hiltapp/ui/Hilt_MainActivity.java
+ edu.notes.hiltapp.ui.Hilt_MainActivity
+ edu.notes.hiltapp.ui.Hilt_MainActivity$1
